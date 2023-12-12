@@ -9,7 +9,7 @@ The easiest but the most dangerous malaware in python.
 - run `python decrypt.py` fot decrypt all files
 
 # How did it work?
-This software encrypt all files, ensuring that they cannot be decrypted except with a specific key, contained in the _decryption.py_ code.
+This software encrypt all files, ensuring that they cannot be decrypted except with a specific key, contained in the _decrypt.py_ code.
 
 
 # Disclaimer
